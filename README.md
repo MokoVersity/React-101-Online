@@ -1,8 +1,6 @@
 
 <h1 class="hide">React 101 線上課程：<br />開始用 React 打造 Web Frontend</h1>
 
-[![Join the chat at https://gitter.im/MokoVersity/react-101-training](https://badges.gitter.im/MokoVersity/react-101-training.svg)](https://gitter.im/MokoVersity/react-101-training?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 本課程是[React 101 實戰教學：開始用 React 打造 Web Frontend](https://www.mokoversity.com/training/React-101)的線上課程版本。本課程將總覽學習 React 的入門知識，目標是為初學者，製作優質的 React 的入門級課程。
 
 ## 課程規劃
