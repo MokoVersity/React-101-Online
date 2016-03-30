@@ -1,5 +1,5 @@
 
-<h1 class="hide">React 101 線上課程：<br />開始用 React 打造 Web Frontend (第 2 梯次)</h1>
+<h1 class="hide">React 101 線上課程：<br />開始用 React 打造 Web Frontend</h1>
 
 [![Join the chat at https://gitter.im/MokoVersity/react-101-training](https://badges.gitter.im/MokoVersity/react-101-training.svg)](https://gitter.im/MokoVersity/react-101-training?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -8,6 +8,7 @@
 ## 課程規劃
 
 * 採取主題式短片製作，總計 30 部影片，共 120 分鐘的線上影片
+* 課程影片為特別製作，非現場錄影重製
 * 提供線上聊天室討論
 
 ## 課程內容
