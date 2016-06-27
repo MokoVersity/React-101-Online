@@ -15,6 +15,7 @@
 * 學會使用 React 製作簡單的 Web Frontend
 * 學會基本的 JavaScript 與 ES6 語法與觀念
 * 能使用 Node.js、Gulp 與 Browserify 基本命令
+* 建立扎實的 React 邏輯思維
 
 ### 課程說明
 
